@@ -1,0 +1,70 @@
+.title {
+  /* display: flex; */
+  align-items: top;
+  /* justify-content: center; */
+}
+
+h1,
+h2 {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+}
+.logo {
+  display: block;
+  margin-top: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  color: #555;
+  background-color: #f7f7f7;
+  min-height: 96vh;
+  background: linear-gradient(to top left, #5e0674, #c0ceee);
+  display: block;
+  justify-content: center;
+}
+
+/* li {
+  list-style-type: none;
+  font-size: 16pt;
+}
+.mail {
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 400px;
+  background: #d8f1f8;
+  border: 1px soild silver;
+}
+.mail h2 {
+  margin-left: 38px;
+}
+input {
+  font-size: 20pt;
+}
+input:focus,
+textarea:focus {
+  background-color: lightyellow;
+}
+input submit {
+  font-size: 12pt;
+}
+.rq {
+  color: #ff0000;
+  font-size: 10pt;
+} */
